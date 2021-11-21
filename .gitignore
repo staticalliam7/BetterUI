@@ -1,3 +1,5 @@
 *.json
-/bin/
-/obj/
+./src/bin/
+./src/obj/
+*.nix
+.replit
